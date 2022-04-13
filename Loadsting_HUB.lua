@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PUCHATEKAMAZONKA/GUI/main/Script_HUB.lua"))()
